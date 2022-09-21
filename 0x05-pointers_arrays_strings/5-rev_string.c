@@ -62,7 +62,7 @@ void rev_string(char *s)
 
 	
 
-	return()
+	return(a)
 
 	}
 
