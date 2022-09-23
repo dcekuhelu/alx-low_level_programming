@@ -16,7 +16,7 @@ int main(void)
 
 {
 
-	char n;
+	char c;
 
 
 
