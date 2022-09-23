@@ -1,5 +1,3 @@
-
-
 #include <stdio.h>
 
 
@@ -30,7 +28,7 @@ int main(void)
 
 		
 
-		for (p = 0; p < 100; p++)
+		for (p = 0; p < 100; i++)
 
 		{
 
@@ -77,3 +75,5 @@ int main(void)
 	return(0);
 
 }
+
+
