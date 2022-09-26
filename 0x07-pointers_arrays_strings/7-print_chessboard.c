@@ -1,19 +1,18 @@
-
 #include "main.h"
 
 /**
  *
  *   *print_chessboard -  prints the chessboard.
  *
- *     *@a: array of pointers
+ *       *@a: array of pointers
  *
- *       * 
+ *         * 
  *
- *         *Return: void.
+ *           *Return: void.
  *
- *           */
+ *             */
 
-void print_chessboard(char (*a)[8]);
+void print_chessboard(char (*a)[8])
 
 {
 
